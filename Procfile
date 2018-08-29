@@ -1,0 +1,1 @@
+startbot: node bot.js
